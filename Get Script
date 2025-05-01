@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Awaket1/Bizzare-Oddysey-by-Me/refs/heads/main/Script"))()
